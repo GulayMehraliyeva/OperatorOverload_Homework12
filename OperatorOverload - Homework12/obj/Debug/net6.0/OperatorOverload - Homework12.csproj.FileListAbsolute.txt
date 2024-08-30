@@ -1,0 +1,14 @@
+C:\Users\gulay\Desktop\HWs\OperatorOverload - Homework12\OperatorOverload - Homework12\bin\Debug\net6.0\OperatorOverload - Homework12.exe
+C:\Users\gulay\Desktop\HWs\OperatorOverload - Homework12\OperatorOverload - Homework12\bin\Debug\net6.0\OperatorOverload - Homework12.deps.json
+C:\Users\gulay\Desktop\HWs\OperatorOverload - Homework12\OperatorOverload - Homework12\bin\Debug\net6.0\OperatorOverload - Homework12.runtimeconfig.json
+C:\Users\gulay\Desktop\HWs\OperatorOverload - Homework12\OperatorOverload - Homework12\bin\Debug\net6.0\OperatorOverload - Homework12.dll
+C:\Users\gulay\Desktop\HWs\OperatorOverload - Homework12\OperatorOverload - Homework12\bin\Debug\net6.0\OperatorOverload - Homework12.pdb
+C:\Users\gulay\Desktop\HWs\OperatorOverload - Homework12\OperatorOverload - Homework12\obj\Debug\net6.0\OperatorOverload - Homework12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gulay\Desktop\HWs\OperatorOverload - Homework12\OperatorOverload - Homework12\obj\Debug\net6.0\OperatorOverload - Homework12.AssemblyInfoInputs.cache
+C:\Users\gulay\Desktop\HWs\OperatorOverload - Homework12\OperatorOverload - Homework12\obj\Debug\net6.0\OperatorOverload - Homework12.AssemblyInfo.cs
+C:\Users\gulay\Desktop\HWs\OperatorOverload - Homework12\OperatorOverload - Homework12\obj\Debug\net6.0\OperatorOverload - Homework12.csproj.CoreCompileInputs.cache
+C:\Users\gulay\Desktop\HWs\OperatorOverload - Homework12\OperatorOverload - Homework12\obj\Debug\net6.0\OperatorOverload - Homework12.dll
+C:\Users\gulay\Desktop\HWs\OperatorOverload - Homework12\OperatorOverload - Homework12\obj\Debug\net6.0\refint\OperatorOverload - Homework12.dll
+C:\Users\gulay\Desktop\HWs\OperatorOverload - Homework12\OperatorOverload - Homework12\obj\Debug\net6.0\OperatorOverload - Homework12.pdb
+C:\Users\gulay\Desktop\HWs\OperatorOverload - Homework12\OperatorOverload - Homework12\obj\Debug\net6.0\OperatorOverload - Homework12.genruntimeconfig.cache
+C:\Users\gulay\Desktop\HWs\OperatorOverload - Homework12\OperatorOverload - Homework12\obj\Debug\net6.0\ref\OperatorOverload - Homework12.dll
